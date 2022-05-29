@@ -10,7 +10,7 @@
     "postinstall": "tsc"
   },
   "keywords": [],
-  "author": "",
+  "author": "Shahar Best",
   "license": "ISC",
   "devDependencies": {
     "@types/express": "^4.17.13",
